@@ -33,3 +33,4 @@ Eurorack components and footprints for KiCad.
 - [DC_JACK](https://www.sparkfun.com/datasheets/Prototyping/Barrel-Connector-PJ-202A.pdf)
 - MIDI DIN 5
 - Mouse Bites (1mm apart, 0.5mm diameter)
+- SPDT Toggle Switch
