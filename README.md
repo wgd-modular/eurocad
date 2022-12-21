@@ -34,3 +34,4 @@ Eurorack components and footprints for KiCad.
 - MIDI DIN 5
 - Mouse Bites (1mm apart, 0.5mm diameter)
 - SPDT Toggle Switch
+- [Bourns 20mm Slider](https://github.com/mcous/kicad-lib)
