@@ -34,5 +34,6 @@ Eurorack components and footprints for KiCad.
 - MIDI DIN 5
 - Mouse Bites (1mm apart, 0.5mm diameter)
 - SPDT Toggle Switch
+- SPDT Sub-Mini Toggle Switch
 - [Bourns 20mm Slider](https://github.com/mcous/kicad-lib)
 - [7x7mm DPDT Switch](https://de.aliexpress.com/item/1005002645412275.html?spm=a2g0o.productlist.main.1.c3be28cbannMsz&algo_pvid=b84a1a44-6e45-42bc-ab5f-0a42658991f2&aem_p4p_detail=202302270921007686169104873560013799282&algo_exp_id=b84a1a44-6e45-42bc-ab5f-0a42658991f2-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000021537435076%22%7D&pdp_npi=3%40dis%21EUR%211.35%210.92%21%21%21%21%21%402100b0d116775184605491602d06c7%2112000021537435076%21sea%21DE%210&curPageLogUid=O6VH6Mog8CK8&ad_pvid=202302270921007686169104873560013799282_1&ad_pvid=202302270921007686169104873560013799282_1)
